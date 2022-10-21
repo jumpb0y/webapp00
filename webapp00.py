@@ -2,7 +2,9 @@
   
 #import the library
 import streamlit as st
-  
+
+from PIL import Image 
+
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title("BOHEMINAN RHAPSODY É NOTA 1000!")
 
